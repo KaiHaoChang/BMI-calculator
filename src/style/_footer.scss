@@ -1,0 +1,18 @@
+div.footer {
+  background: #E1A91881;
+  min-height: 10vh;
+
+  .socialMedias {
+    padding-top: 2.2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    a{
+      color:rgb(255, 255, 255);
+      margin: 0 2rem;
+      i {
+        font-size: 3rem;
+      }
+    }
+  }
+}

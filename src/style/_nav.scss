@@ -1,0 +1,16 @@
+
+div.navbar { 
+  background-image: url(../components/pictures/navbar.jpg);
+  background-size:cover;
+  background-position-y: 51%;
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(254, 254, 254);
+    font-size:3.6vw;
+    background: #E1A91881;
+    min-height: 20vh;
+    letter-spacing: 0.3rem;
+  }
+}
